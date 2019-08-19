@@ -7,7 +7,6 @@ Organizer.py
   Run this script with the messy folder as input.
   This separates the files and puts them into folders named on the extension of the file.
   
-  Ex :
     Before running the Script
       |- root
           |- .
@@ -18,7 +17,6 @@ Organizer.py
           |- d.mp4
           |- x.txt
           |- y.mp4
-        
     After running the script
       |-root
           |- .
