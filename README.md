@@ -8,7 +8,7 @@ Organizer.py
   This separates the files and puts them into folders named on the extension of the file.
   
   Ex :
-    Before running the Script : 
+    Before running the Script
       |- root
           |- .
           |- ..
