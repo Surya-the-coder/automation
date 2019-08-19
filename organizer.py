@@ -1,7 +1,5 @@
 import os
 
-audio_formats = [".aa",".aac",".aax",".act",".aiff",".amr",".ape",".au",".awb",".dct",".dss",".dvf",".flac",".gsm",".iklax",".ivs",".m4a",".m4b",".m4p",".mmf",".mp3",".mpc",".msv",".nmf",".nsf",".ogg",".oga",".mogg",".opus",".ra",".rm",".raw",".sln",".tta",".voc",".vox",".wav",".wma",".wv",".webm",".8svx"]
-
 root = input("Enter the path to be organized : ")
 os.chdir(root)
 myfiles=os.listdir(root)
